@@ -3,7 +3,7 @@ Here is my Final Portolfio Project for My computer Science Degree
 Below you will find a few things: A professional assement, three computer science projects with explanation and links to the code, and a video for a code review. 
 Through it all I hope you learn more about myself, my education, and why I could make a valuable memeber of your organization!
 
-Coding Review of SQL Based Project: ![Find Video Here](https://drive.google.com/file/d/1u_6sTz98GSWW6HdNrNEtdBabpbA757kA/view?usp=sharing)
+Coding Review of SQL Based Project: [Find Video Here](https://drive.google.com/file/d/1u_6sTz98GSWW6HdNrNEtdBabpbA757kA/view?usp=sharing)
 
 Professional Assesment: 
 My time in Southern New Hampshire Universities’ computer science program have been extremely valuable. I have learned a lot of skills that will continue to make me valuable in the ever-changing workplace. For my e-portfolio project I focused on engineering tasks that will hopefully be able to propel my career as a product manager forward. Over the course of the last year, I have worked as a Product manager for a tech startup, and I do not think I would be at this point without this program. Throughout my time here I learned data analytics, core software engineering skills, and how to work effectively with technical teams. All while continuing to learn to communicate with stakeholders. These skills will continue to allow me to advance my career as a product manager. Working well with engineers, understanding data well, and high level of communication are the skills that I look most forward to taking with me. 
